@@ -1,0 +1,38 @@
+[
+  {
+    "client_name": "John Snow",
+    "recommended_instruments": [
+      "Last Will & Testament",
+      "Living Trust",
+      "Guardianship Designation",
+      "Durable Power of Attorney",
+      "HIPAA Authorization"
+    ],
+    "rationale": "Given John's young family and real estate ownership, it's essential to establish a clear plan for the distribution of his assets and the care of his minor children in the event of his passing. A Last Will & Testament and Living Trust will help ensure his wishes are respected, while a Guardianship Designation will provide for his children's well-being. Additionally, a Durable Power of Attorney and HIPAA Authorization will allow his spouse to make medical and financial decisions on his behalf if needed.",
+    "urgency_flag": "Medium"
+  },
+  {
+    "client_name": "Sanwal K",
+    "recommended_instruments": [
+      "Business Succession Plan",
+      "Last Will & Testament",
+      "Durable Power of Attorney",
+      "HIPAA Authorization",
+      "Financial Power of Attorney"
+    ],
+    "rationale": "As a single 34-year-old business owner, Sanwal needs to prioritize planning for the unexpected, particularly in relation to his business. A Business Succession Plan is crucial to ensure continuity and protection of his business interests. Additionally, basic estate planning documents such as a Last Will & Testament, Durable Power of Attorney, HIPAA Authorization, and Financial Power of Attorney will provide a solid foundation for his overall estate plan.",
+    "urgency_flag": "High"
+  },
+  {
+    "client_name": "James D",
+    "recommended_instruments": [
+      "Last Will & Testament",
+      "Guardianship Designation",
+      "Business Succession Plan",
+      "Durable Power of Attorney",
+      "HIPAA Authorization"
+    ],
+    "rationale": "As a divorced parent with minor children and a business, James needs to ensure his children are protected and his assets are managed properly in case something happens to him. A Last Will & Testament and Guardianship Designation are crucial for naming a guardian for his children and distributing his assets. Additionally, a Business Succession Plan, Durable Power of Attorney, and HIPAA Authorization will help manage his business and personal affairs.",
+    "urgency_flag": "High"
+  }
+]
